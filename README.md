@@ -1,12 +1,12 @@
 
-# Code 4 All 
+# Junior Software Developer to be!
 
-## Anyone can code! 
+## Starting my coding journey 7 Oct 2024 
 <hr>
 
 <img src="bookshelf.jpg">
 
-# Love Programming
+# Full Stack Development Bootcamper 524918 
 
 <p>Programming is fun, if you start off on the right foot.</p>
 <p>A good place to start is first understanding what programming actually is without getting bogged down by learning any particular language.</p>
