@@ -1,5 +1,5 @@
 ## Hi there 👋
-# bootcampers 
+# Junior Software Developer to be!
 <!--
 **heli-t-00/heli-t-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
