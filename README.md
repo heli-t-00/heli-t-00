@@ -8,10 +8,10 @@
 
 # Full Stack Development Bootcamper 524918 
 
-<p>Programming is fun, if you start off on the right foot.</p>
-<p>A good place to start is first understanding what programming actually is without getting bogged down by learning any particular language.</p>
+<p>Learning programming via Code Institute</p>
+<p>Day 1</p>
 
-<p>Some popular languages includes:</p>
+<p>What I will learn:</p>
 <ul><li>HTML, CSS</li><li>JavaScript</li><li>Python</li><li>Pascal</li><li>SQL</li></ul>
 
 <p>Wait. What?  Pascal? What's Pascal? You might well ask.</p>
