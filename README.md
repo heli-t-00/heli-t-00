@@ -4,7 +4,7 @@
 ## Starting my coding journey 7 Oct 2024 
 <hr>
 
-<img src="bookshelf.jpg">
+<img src=>
 
 # Full Stack Development Bootcamper 524918 
 
