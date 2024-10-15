@@ -1,5 +1,5 @@
 
-# Junior Software Developer to be!
+#Software Developer to be!
 
 ## Starting my coding journey 7 Oct 2024 
 <hr>
