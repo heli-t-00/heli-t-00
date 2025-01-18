@@ -1,28 +1,23 @@
+# Full-stack software developer
+<p>I am an aspiring software developer transitioning from a successful 15-year career in event project and training management to the exciting world of tech and web development. Currently completing a Full Stack Software Development Bootcamp with Code Institute, I am proficient in HTML, CSS, JavaScript, and Python, and have hands-on experience building full-stack applications using Django, Bootstrap, and SQL.
 
-#Software Developer to be!
+Through my bootcamp projects, I’ve developed responsive, user-friendly websites and applications, focusing on delivering impactful solutions. My experience includes integrating APIs, hosting applications on platforms like Heroku, and adhering to W3C standards for testing and quality assurance.
 
-## Starting my coding journey 7 Oct 2024 
-<hr>
+💡 What I Bring to the Table:
 
-<img src=>
+Technical Expertise: Proficiency in front-end and back-end development, with skills in Git, version control, and database management.
 
-# Full Stack Development Bootcamper 524918 
+Transferable Skills: Over a decade of stakeholder engagement, project coordination, and process optimization experience, ensuring strong collaboration and problem-solving abilities.
 
-<p>Learning programming via Code Institute</p>
-<p>Day 1</p>
+Commitment to Growth: A passion for learning and continuous development, backed by certifications and practical experience in tech.
 
-<p>What I will learn:</p>
-<ul><li>HTML, CSS</li><li>JavaScript</li><li>Python</li><li>Pascal</li><li>SQL</li></ul>
+🎯 Career Goals:
+I am eager to join a dynamic development team where I can contribute to innovative projects, grow my skills in software development or from a data analytics view, and add value through my unique combination of technical expertise and professional experience.
 
-<p></p>
-<p> <strong></strong> </p>
-<p></p>
+📂 Key Projects:
 
-## What Else;
-
-<ul><li></li><li></li><li></li></ul>
-<ul><li></li><li></li><li></li><li></li></ul>
-
+Responsive Static Website (HTML & CSS): Designed a visually appealing, mobile-friendly website.
+Interactive Website (JavaScript): Built dynamic functionality for enhanced user engagement.</p>
 
 
 <!--
