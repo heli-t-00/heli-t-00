@@ -19,7 +19,7 @@ I am eager to join a dynamic development team where I can contribute to innovati
 Responsive Static Website (HTML & CSS): Designed a visually appealing, mobile-friendly website.
 Interactive Website (JavaScript): Built dynamic functionality for enhanced user engagement.</p>
 
-#Check Out my respositories so far...
+# Check Out my respositories so far...
 <p>•	Project 1: Responsive front-end development, HTML and CSS - [github link](https://github.com/heli-t-00/Project1_NPBadminton) </p>
 <p>•	Project 2: Interactive front-end development HTML, CSS and JavaScript – [github link](https://github.com/heli-t-00/Project2_badmintonCourt)</p>
 <p>•	Project 3: Full-stack application combining front-end & back-end functionality – working progress.</p>
