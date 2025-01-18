@@ -19,6 +19,15 @@ I am eager to join a dynamic development team where I can contribute to innovati
 Responsive Static Website (HTML & CSS): Designed a visually appealing, mobile-friendly website.
 Interactive Website (JavaScript): Built dynamic functionality for enhanced user engagement.</p>
 
+#Check Out my respositories so far...
+•	Project 1: Responsive front-end development, HTML and CSS - [github link](https://github.com/heli-t-00/Project1_NPBadminton) 
+•	Project 2: Interactive front-end development HTML, CSS and JavaScript – [github link](https://github.com/heli-t-00/Project2_badmintonCourt)
+•	Project 3: Full-stack application combining front-end & back-end functionality – working progress.
+•	Hackathon Project: Participated in a 4-day sprint like event, collaborated intensively with a diverse team of developers, designers and project managers to create a functioning software prototype by the end of the event. 
+    o	Took on the Scrum Master role, managed sprint tasks, coordinated communication to ensure team stayed on track to meet deadlines.
+    o	Focused on developing web application that incorporated HTML, CSS, JavaScript.
+    o	Successfully delivered a working prototype within the hackathon’s timeframe, receiving positive feedback for both team collaboration and technical execution. [github link](https://github.com/heli-t-00/december-hackathon)
+
 
 <!--
 **heli-t-00/heli-t-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
