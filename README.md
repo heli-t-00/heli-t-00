@@ -1,5 +1,5 @@
 # Full-stack software developer
-<p>I am an aspiring software developer transitioning from a successful 15-year career in event project and training management to the exciting world of tech and web development. Currently completing a Full Stack Software Development Bootcamp with Code Institute, I am proficient in HTML, CSS, JavaScript, and Python, and have hands-on experience building full-stack applications using Django, Bootstrap, and SQL.
+<p>I am a software developer transitioning from a successful 15-year career in event project and training management to the exciting world of tech and web development. Completed Full Stack Software Development Bootcamp with Code Institute, I am proficient in HTML, CSS, JavaScript, and Python, and have hands-on experience building full-stack applications using Django, Bootstrap, and SQL.
 
 Through my bootcamp projects, I’ve developed responsive, user-friendly websites and applications, focusing on delivering impactful solutions. My experience includes integrating APIs, hosting applications on platforms like Heroku, and adhering to W3C standards for testing and quality assurance.
 
