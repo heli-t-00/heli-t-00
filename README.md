@@ -1,45 +1,76 @@
-# Full-stack software developer
-<p>I am a software developer transitioning from a successful 15-year career in event project and training management to the exciting world of tech and web development. Completed Full Stack Software Development Bootcamp with Code Institute, I am proficient in HTML, CSS, JavaScript, and Python, and have hands-on experience building full-stack applications using Django, Bootstrap, and SQL.
+# QA Engineer | Full-Stack Foundations | Career Changer into Tech
 
-Through my bootcamp projects, I’ve developed responsive, user-friendly websites and applications, focusing on delivering impactful solutions. My experience includes integrating APIs, hosting applications on platforms like Heroku, and adhering to W3C standards for testing and quality assurance.
+I am a QA Engineer with a background in full-stack software development and over 15 years of experience in project delivery, training operations, and CRM system migrations.
 
-💡 What I Bring to the Table:
+After completing a Full Stack Software Development Bootcamp with Code Institute, I transitioned into tech and now work in Quality Assurance, applying both technical and analytical skills to ensure robust, reliable software.
 
-Technical Expertise: Proficiency in front-end and back-end development, with skills in Git, version control, and database management.
+My development training (HTML, CSS, JavaScript, Python, Django, SQL) allows me to understand applications end-to-end — from database design to front-end user experience — which strengthens my ability to test effectively, identify edge cases, and communicate clearly with developers.
 
-Transferable Skills: Over a decade of stakeholder engagement, project coordination, and process optimization experience, ensuring strong collaboration and problem-solving abilities.
+---
 
-Commitment to Growth: A passion for learning and continuous development, backed by certifications and practical experience in tech.
+## 💡 What I Bring
 
-🎯 Career Goals:
-I am eager to join a dynamic development team where I can contribute to innovative projects, grow my skills in software development or from a data analytics view, and add value through my unique combination of technical expertise and professional experience.
+### 🔍 Quality & Testing Mindset
+- Manual testing and user journey validation  
+- Writing and executing test cases  
+- Regression and exploratory testing  
+- Experience testing CRM and web-based platforms  
+- Strong attention to detail and risk awareness  
 
-📂 Key Projects:
+### 💻 Technical Foundations
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Python & Django  
+- Databases: SQL  
+- Version control: Git & GitHub  
+- Understanding of full-stack architecture  
 
-Responsive Static Website (HTML & CSS): Designed a visually appealing, mobile-friendly website.
-Interactive Website (JavaScript): Built dynamic functionality for enhanced user engagement.</p>
+### 🤝 Transferable Strengths
+- 15+ years of stakeholder management & coordination  
+- CRM migration testing experience  
+- Scrum Master experience during hackathon sprint  
+- Strong communication between technical & non-technical teams  
 
-# Check Out my respositories so far...
-<p>•	Project 1: Responsive front-end development, HTML and CSS - [github link](https://github.com/heli-t-00/Project1_NPBadminton) </p>
-<p>•	Project 2: Interactive front-end development HTML, CSS and JavaScript – [github link](https://github.com/heli-t-00/Project2_badmintonCourt)</p>
-<p>•	Project 3: Full-stack application combining front-end & back-end functionality – working progress.</p>
-<p>•	Hackathon Project: Participated in a 4-day sprint like event, collaborated intensively with a diverse team of developers, designers and project managers to create a functioning software prototype by the end of the event. 
-    o	Took on the Scrum Master role, managed sprint tasks, coordinated communication to ensure team stayed on track to meet deadlines.
-    o	Focused on developing web application that incorporated HTML, CSS, JavaScript.
-    o	Successfully delivered a working prototype within the hackathon’s timeframe, receiving positive feedback for both team collaboration and technical execution. [github link](https://github.com/heli-t-00/december-hackathon) </p>
+---
 
+## 🎯 Career Direction
 
-<!--
-**heli-t-00/heli-t-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building my career in Quality Engineering with a long-term interest in:
 
-Here are some ideas to get you started:
+- Test automation  
+- Security-focused testing  
+- Risk management & governance  
+- Bridging the gap between technical and business teams  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a trusted quality and security advocate within high-performing tech teams.
+
+---
+
+## 📂 Key Projects
+
+### 🖥 Project 1 – Responsive Front-End Website  
+HTML & CSS responsive design  
+🔗 https://github.com/heli-t-00/Project1_NPBadminton  
+
+### 🎯 Project 2 – Interactive Front-End Application  
+HTML, CSS & JavaScript dynamic functionality  
+🔗 https://github.com/heli-t-00/Project2_badmintonCourt  
+
+### 🚧 Project 3 – Full-Stack Application (Django)  
+Full-stack project integrating backend logic & database design  
+Status: In Progress  
+
+### 🚀 Hackathon Project – Scrum Master Role  
+4-day sprint delivering a working web application prototype  
+- Managed sprint tasks and coordination  
+- Contributed to front-end development  
+- Delivered functioning MVP within deadline  
+
+🔗 https://github.com/heli-t-00/december-hackathon  
+
+---
+
+## 🌱 Currently Developing
+
+- Expanding knowledge in test automation  
+- Strengthening SQL and database validation skills  
+- Learning more about secure development practices  
