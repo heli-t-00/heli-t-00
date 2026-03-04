@@ -4,7 +4,8 @@ I am a QA Engineer with a background in full-stack software development and over
 
 After completing a Full Stack Software Development Bootcamp with Code Institute, I transitioned into tech and now work in Quality Assurance, applying both technical and analytical skills to ensure robust, reliable software.
 
-My development training (HTML, CSS, JavaScript, Python, Django, SQL) allows me to understand applications end-to-end — from database design to front-end user experience — which strengthens my ability to test effectively, identify edge cases, and communicate clearly with developers.
+My development training (HTML, CSS, JavaScript, Python, Django, SQL, Scala, Selenium and Cucumber) allows me to understand applications end-to-end — from database design to front-end user experience — which strengthens my ability to test effectively, identify edge cases, and communicate clearly with developers.
+I'm currently looking into AI and Playwright - watch this space!
 
 ---
 
